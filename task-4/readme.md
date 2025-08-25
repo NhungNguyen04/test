@@ -24,8 +24,7 @@ Tổng độ phức tạp: **O(n + q)**.
    - Cài node.js.
    - Cài node-fetch.
    ```bash
-    npm install node-fetch@2
-  ```
+   npm install node-fetch@2
 2. **Chạy chương trình**:
    ```bash
     node main.js
